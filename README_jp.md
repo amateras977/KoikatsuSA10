@@ -4,6 +4,8 @@
 
 [対象デバイス](https://iostindex.com/?filter0ButtplugSupport=7)
 
+[コイカツ!用はこちら](https://github.com/amateras977/KoikatsuA10)
+
 # 使い方
 
 ## 事前準備
